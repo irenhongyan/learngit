@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 qwe dev1
-=======
-qwe dev1
->>>>>>> feature1
